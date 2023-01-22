@@ -1,0 +1,4 @@
+github.com/frida/frida-go v0.6.0 h1:L5Sl5tQSyFrTOXj1tlghvelv3C5BLOwQaQ4A33B1MA4=
+github.com/frida/frida-go v0.6.0/go.mod h1:OyRIp58wuTcGggI6ztakXcHkTXrt5WfD9yi3pq6QyGw=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
