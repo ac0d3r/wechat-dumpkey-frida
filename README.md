@@ -11,8 +11,8 @@ $ CGO_ENABLED=1 go run dumpkey.go
 
 ## 分析文章
 
-- [打造macOS下最强的微信取证工具](https://mp.weixin.qq.com/s/dC8489jQ3jEC1AUrCBE6pw) 文章首发于 **百灵鸟安全团队**。
-<img style="width: 150px;" src="https://user-images.githubusercontent.com/26270009/213902716-b10473d4-2408-4c19-8acc-65a4444b2dba.png">
+- [打造macOS下最强的微信取证工具](https://mp.weixin.qq.com/s/dC8489jQ3jEC1AUrCBE6pw) 文章首发于 **百灵鸟安全团队**公众号。
+- 博客文章：https://blog.macoder.tech/macOS-6faf0534323c42259f5277bd95d35c43
 
 ## 扫描器优化版
 - [kk 版扫描器](https://github.com/kekeimiku/dumpkey)
